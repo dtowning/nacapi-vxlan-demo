@@ -38,3 +38,6 @@ vxlan:
         management:
           default_gateway_v4: 10.1.1.1
           management_ipv4_address: 10.1.1.14
+      - name: SN-leaf-1
+        serial_number: 941L30Q8ZXI
+        role: leaf
