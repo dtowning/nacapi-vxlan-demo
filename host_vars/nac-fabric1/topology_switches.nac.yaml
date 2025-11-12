@@ -38,3 +38,9 @@ vxlan:
         management:
           default_gateway_v4: 10.1.1.1
           management_ipv4_address: 10.1.1.14
+      - name: DemoSwitch3
+        serial_number: DemoSerial3
+        role: leaf
+      - name: DemoSwitch4
+        serial_number: DemoSerial4
+        role: leaf
